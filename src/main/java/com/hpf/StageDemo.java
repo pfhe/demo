@@ -7,7 +7,7 @@ public class StageDemo {
 
 	/**
 	 * 
-	 * @param arr     需要进行组合的数组，数字为0-9范围内
+	 * @param arr    需要进行组合的数组，数字为0-9范围内
 	 * @param letters 数字对应的字符，一一对应
 	 * @return 返回值为组合后的String类型的集合
 	 */
